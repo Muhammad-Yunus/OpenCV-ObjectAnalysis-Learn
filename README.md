@@ -11,3 +11,8 @@
     - OpenCV - Compute 'irregular shape' object orientation using PCA
     - OpenCV - Compute 'irregular + concave shape' object orientation using Convex Hull + PCA
     - Ultralytics - Detect object orientation using YOLO OBB (Object Detection Model to detect Oriented Bounding Box)
+    - Send Data to Serial (UART)
+- [Pertemuan 3](https://github.com/Muhammad-Yunus/OpenCV-ObjectAnalysis-Learn/tree/main/Pertemuan_3)
+    - Roboflow - Prepare Custom Dataset for YOLO OBB
+    - Ultralytics - Training Custom YOLO OBB Model in Google Colab
+    - Ultralytics - Test TRained model to detect object orientation
