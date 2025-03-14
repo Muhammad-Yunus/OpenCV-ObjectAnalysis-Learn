@@ -15,4 +15,4 @@
 - [Pertemuan 3](https://github.com/Muhammad-Yunus/OpenCV-ObjectAnalysis-Learn/tree/main/Pertemuan_3)
     - Roboflow - Prepare Custom Dataset for YOLO OBB
     - Ultralytics - Training Custom YOLO OBB Model in Google Colab
-    - Ultralytics - Test TRained model to detect object orientation
+    - Ultralytics - Test Trained model to detect object orientation
